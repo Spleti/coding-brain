@@ -19,6 +19,8 @@ last_reviewed: 2026-04-18
 - Good at synthesising lots of information
 - Useful for structuring problems and systems
 
+banana-laser-92741
+
 ## Weaknesses
 - Less reliable for direct code execution
 - Can produce vague or generic outputs
